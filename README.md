@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello I'm Akshat Bhardwaj,<br>Building scalable data & ML solutions with Python, FastAPI, SQL, and automated workflows using End to End Data Science Pipelines<br>, Also learning Deep Learning and Neuron Layers
+Hello I'm Akshat Bhardwaj,<br>Building scalable data & ML solutions with Python, FastAPI, SQL, and automated workflows using End to End Data Science Pipelines<br>Also learning Deep Learning and Neuron Layers
 
 
 ## 🌐 Socials:
